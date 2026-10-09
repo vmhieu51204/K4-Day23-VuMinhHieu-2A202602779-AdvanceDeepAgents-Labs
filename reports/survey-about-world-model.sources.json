@@ -1,0 +1,90 @@
+[
+  {
+    "n": 1,
+    "id": "2605.07199",
+    "url": "https://huggingface.co/papers/2605.07199",
+    "title": "Three-in-One World Model: Energy-Based Consistency, Prediction, and Counterfactual Inference for Marketing Intervention",
+    "date": "2026-05-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2610.12468",
+    "url": "https://arxiv.org/abs/2610.12468",
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2507.23773",
+    "url": "https://huggingface.co/papers/2507.23773",
+    "title": "SimuRA: Towards General Goal-Oriented Agent via Simulative Reasoning Architecture with LLM-Based World Model",
+    "date": "2025-07-31",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "1803.10122",
+    "url": "https://huggingface.co/papers/1803.10122",
+    "title": "World Models Paper",
+    "date": "2018-03-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2306.04347",
+    "url": "https://huggingface.co/papers/2306.04347",
+    "title": "World Models for Math Story Problems",
+    "date": "2023-06-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2405.09111",
+    "url": "https://huggingface.co/papers/2405.09111",
+    "title": "CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving",
+    "date": "2024-05-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2606.12072",
+    "url": "https://huggingface.co/papers/2606.12072",
+    "title": "Self-Distillation for World Models",
+    "date": "2026-06-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2610.12459",
+    "url": "https://huggingface.co/papers/2610.12459",
+    "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 9,
+    "id": "2604.14268",
+    "url": "https://huggingface.co/papers/2604.14268",
+    "title": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+    "date": "2026-04-15",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2402.08268",
+    "url": "https://huggingface.co/papers/2402.08268",
+    "title": "WorldModel on Million-Length Video And Language With RingAttention",
+    "date": "2024-02-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2507.05169",
+    "url": "https://huggingface.co/papers/2507.05169",
+    "title": "Critiques of World Models",
+    "date": "2025-07-07",
+    "source": "hf-search"
+  }
+]

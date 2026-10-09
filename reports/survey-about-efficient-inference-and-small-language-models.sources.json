@@ -1,0 +1,50 @@
+[
+  {
+    "n": 1,
+    "id": "2610.07443",
+    "url": "https://arxiv.org/abs/2610.07443",
+    "title": "A Shape-Adaptive Architecture with Disaggregated Quantization for Efficient LLM Serving",
+    "date": "2026-10-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2503.01933",
+    "url": "https://huggingface.co/papers/2503.01933",
+    "title": "Fine-Tuning Small Language Models for Domain-Specific AI: An Edge AI Perspective",
+    "date": "2025-03-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2505.19529",
+    "url": "https://huggingface.co/papers/2505.19529",
+    "title": "Small Language Models: Architectures, Techniques, Evaluation, Problems and Future Adaptation",
+    "date": "2025-05-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2610.11978",
+    "url": "https://arxiv.org/abs/2610.11978",
+    "title": "Specialized Decision Models vs. General-Purpose LLMs: Benchmarking Jev Across Knowledge, Reasoning, and Multilingual Tasks",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2506.03231",
+    "url": "https://huggingface.co/papers/2506.03231",
+    "title": "NetPress: Dynamically Generated LLM Benchmarks for Network Applications",
+    "date": "2025-06-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2503.00686",
+    "url": "https://huggingface.co/papers/2503.00686",
+    "title": "GPIoT: Tailoring Small Language Models for IoT Program Synthesis and Development",
+    "date": "2025-03-02",
+    "source": "hf-daily"
+  }
+]
